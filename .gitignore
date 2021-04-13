@@ -1,0 +1,18 @@
+
+# IDEs
+.idea
+.vscode
+
+
+# Dependency directories
+node_modules/
+logs/
+/data
+
+# Optional npm cache directory
+.npm
+
+
+# doatenv environment variables file
+.env
+git remote set-url origin git@github.com-private:MSalaah96/repo_name.git
